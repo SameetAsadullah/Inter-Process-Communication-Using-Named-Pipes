@@ -22,5 +22,5 @@ A simple `C++ Program` to simulate `Inter-Process Communication` using `Named Pi
     
 ### Working Screenshot
 <div align="center">
-  <img src = "https://github.com/SameetAsadullah/Inter-Process-Communication-Using-Named-Pipes/blob/main/extras/working-ss.png" alt = "" width="1100px"/>
+  <img src = "https://github.com/SameetAsadullah/Inter-Process-Communication-Using-Named-Pipes/blob/main/extras/working-ss.png" alt = "" width="800px"/>
 </div>
