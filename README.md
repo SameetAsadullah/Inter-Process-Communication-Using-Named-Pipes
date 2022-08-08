@@ -4,7 +4,7 @@
 A simple `C++ Program` to simulate `Inter-Process Communication` using `Named Pipes`.
 
 ### Manual
-1) Open `First Terminal` and use following commands to `Complie and Run First Code`:
+1) Open `First Terminal` and use following commands to `Compile and Run First Code`:
     ```
     g++ task1_1.cpp
     ```
@@ -12,7 +12,7 @@ A simple `C++ Program` to simulate `Inter-Process Communication` using `Named Pi
     ./a.out
     ```
 
-2) Open `Second Terminal` and use following commands to `Complie and Run Second Code`:
+2) Open `Second Terminal` and use following commands to `Compile and Run Second Code`:
     ```
     g++ task1_2.cpp
     ```
